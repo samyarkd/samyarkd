@@ -4,11 +4,11 @@
 
 it's Samy or Samyar 😀
 
-love in python (😍)
+Love in python (😍)
 and also i love you ...
 🌱 I’m currently learning anything 😑😐
 
-my hobbies are :
+My hobbies are :
 * whcing anime 😎
 * reading book 👌
 * game 🕹
