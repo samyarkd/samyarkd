@@ -3,7 +3,7 @@
 
 it's Samy or Samyar 😀
 
-love in python (😍) \n
+love in python (😍)
 and also i love you ...
 🌱 I’m currently learning anything 😑😐
 
