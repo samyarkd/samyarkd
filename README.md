@@ -15,7 +15,7 @@ My hobbies are :
 * programming 🐍
 
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=pokurt&show_icons=true&theme=radical)](https://github.com/samyarkd)
+[![github stats](https://github-readme-stats.vercel.app/api?username=SAMY&show_icons=true&theme=radical)](https://github.com/samyarkd)
 
 
 
