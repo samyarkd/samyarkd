@@ -1,16 +1,19 @@
 ### Hi there 👋
+<img src="https://media.giphy.com/media/HcmeBxVSg8YGA/giphy.gif">
 
-<!--
-**samyarkd/samyarkd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+it's Samy or Samyar 😀
 
-Here are some ideas to get you started:
+love in python (😍)
+and also i love in you ...
+🌱 I’m currently learning anything 😑😐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+my hobbies are :
+* whcing anime 😎
+* reading book 👌
+* game 🕹
+* programming 🐍
+
+
+
+
+
