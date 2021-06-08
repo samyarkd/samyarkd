@@ -9,10 +9,10 @@ and also i love you ...
 🌱 I’m currently learning anything 😑😐
 
 My hobbies are :
-* whcing anime 😎
-* reading book 👌
-* game 🕹
-* programming 🐍
+* Watching anime 😎
+* Reading book 👌
+* Game 🕹
+* Programming 🐍
 
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=SAMY&show_icons=true&theme=radical)](https://github.com/samyarkd)
