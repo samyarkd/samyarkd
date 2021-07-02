@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**samyarkd/samyarkd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.giphy.com/media/HcmeBxVSg8YGA/giphy.gif">
 
-Here are some ideas to get you started:
+it's Samy or Samyar 😀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Love in python (😍)
+and also i love you ...
+🌱 I’m currently learning anything 😑😐
+
+My hobbies are :
+* Watching anime 😎
+* Reading book 👌
+* Game 🕹
+* Programming 🐍
+
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=SAMY&show_icons=true&theme=radical)](https://github.com/samyarkd)
+
+
+
+
+
