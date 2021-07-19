@@ -14,6 +14,10 @@ My hobbies are :
 * Game 🕹
 * Programming 🐍
 
+What field do I work in?
+* Python 
+* React - front-end
+
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=SAMY&show_icons=true&theme=radical)](https://github.com/samyarkd)
 
