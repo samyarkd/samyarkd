@@ -4,6 +4,8 @@
 
 it's Samy or Samyar 😀
 
+> INTP
+
 Love in python (😍)
 and also i love you ...
 🌱 I’m currently learning anything 😑😐
