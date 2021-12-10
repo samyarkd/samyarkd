@@ -6,7 +6,7 @@ it's Samy or Samyar 😀
 
 > INTP
 
-Love in python (😍)
+Love in React (😍)
 and also i love you ...
 🌱 I’m currently learning anything 😑😐
 
