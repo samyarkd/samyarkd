@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/HcmeBxVSg8YGA/giphy.gif">
 
-it's Samy or Samyar 😀
+it's Samyar 😀
 
 > INTP
 
