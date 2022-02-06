@@ -7,7 +7,8 @@ it's Samyar 😀
 > INTP
 
 Love in React (😍)
-and also i love you ...
+
+
 🌱 I’m currently learning anything 😑😐
 
 My hobbies are :
