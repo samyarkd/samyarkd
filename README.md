@@ -9,7 +9,12 @@ it's Samyar 😀
 Love in React (😍)
 
 
-🌱 I’m currently learning anything 😑😐
+🌱 I’m currently learning anything. 😑😐
+
+languages that i'm curently learning or improving them: 
+* Solidity (Dapp)
+* React (JS)
+* Python
 
 My hobbies are :
 * Watching anime 😎
