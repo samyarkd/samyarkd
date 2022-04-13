@@ -11,7 +11,7 @@ Love in React (😍)
 
 🌱 I’m currently learning anything. 😑😐
 
-languages that i'm curently learning or improving them: 
+🏮 languages that i'm currently learning and improving them :
 * Solidity (Dapp)
 * React (JS)
 * Python
