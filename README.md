@@ -24,7 +24,7 @@ My hobbies are :
 
 What field do I work in?
 * Python 
-* React - front-end
+* React - front-end (main)
 
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=Samyar&show_icons=true&theme=radical)](https://github.com/samyarkd)
