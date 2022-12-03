@@ -13,7 +13,7 @@ Love in React (😍)
 
 🏮 languages that i'm currently learning and improving them :
 * Solidity (Dapp)
-* React (JS)
+* React (TS)
 * Python
 
 My hobbies are :
