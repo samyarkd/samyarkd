@@ -1,27 +1,3 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">
+Hey There ☀
 
-<img src="https://media.giphy.com/media/HcmeBxVSg8YGA/giphy.gif">
-
-it's Samyar 😀
-
-> INTP
-
-Love in React (😍)
-
-
-🌱 I’m currently learning anything. 😑😐
-
-🏮 languages that i'm currently learning and improving them :
-* Solidity (Dapp)
-* React (TS)
-* Python
-
-My hobbies are :
-* Watching anime 😎
-* Reading book 👌
-* Game 🕹
-* Programming 🐍
-
-What field do I work in?
-* Python 
-* React - front-end (main)
+Im a Samyar, I create new usefull stuff to people using `Nextjs`, `Typescript` and `Tailwind` (maybe `ant design` somtimes). I hate grooming meetings becuese i just want to start creating (This is Bad).
