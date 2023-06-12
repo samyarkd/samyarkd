@@ -1,3 +1,3 @@
 Hey There ☀
 
-I'm a Samyar, I create new useful stuff for people using `Next.js`, `Typescript` and `Tailwind` (maybe ant design sometimes). Annnnd i kinda hate grooming meetings because i just want to start creating as soon as possible (This is Bad).
+I'm Samyar, an avid developer who loves bringing ideas to life through the power of technology. Specializing in `Next.js`, `Typescript`, and `Tailwind`, I embark on exciting coding adventures to build elegant and functional solutions. Join me as we push the boundaries of creativity and craftsmanship in the digital realm.
